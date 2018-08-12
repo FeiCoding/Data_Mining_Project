@@ -1,13 +1,108 @@
 ﻿timestamp,user_id,members,mentions,message
 21/06/2017,3,4,0,Shall I book it sir
-21/06/2017,3,81,0,"Hey dude, yep go ahead"
+22/06/2017,23,4,0,Hello!
+22/06/2017,23,4,0,Let me know if you have some time to chat soon.
+22/06/2017,23,4,0,I didn't mean that soon!
+22/06/2017,23,4,0,Am going to work on spec for postcode API until I fall asleep in bed. :wink:
+22/06/2017,23,4,0,Sure. Am planning to come by almost-not-new-office-anymore in the morning.
+22/06/2017,23,4,0,Let's try that or failing over weekend or Monday.
+22/06/2017,23,4,0,Cheers.
+22/06/2017,23,4,0,"OK, let's maybe check in Saturday morning. I'll be at a bball tournament most of Saturday but will be able to find 20 mins at some point or on Sunday."
+22/06/2017,23,4,0,cool
+22/06/2017,23,4,0,"NB, as per Hive, Darius message came at time when Vikash was speaking, I think (I ducked out at 2.30 when he finished)."
+22/06/2017,23,4,0,He seemed fine and people in room seemed happy enough.
+22/06/2017,23,4,0,So that doesn't make sense. Maybe George saying something in the margins?
+22/06/2017,23,5,0,We should talk about a preliminary internal postcode API
+22/06/2017,23,5,0,Or I should just build one myself
+22/06/2017,23,5,0,;)
+22/06/2017,23,5,0,For use in DFS and PwC
+22/06/2017,23,5,0,Currently I import / update postcodes for DFS &amp; PwC  on ad hoc basis
+22/06/2017,23,5,0,Well
+22/06/2017,23,5,0,To start I am mainly interested in current postcodes from OS/Royal Mail
+22/06/2017,23,5,0,Quarterly updates
+22/06/2017,23,5,0,"You can't download the whole of <http://postcodes.io|postcodes.io>, can you?"
+22/06/2017,23,5,0,If so that could be useful for obsolete/archive
+22/06/2017,23,5,0,We can talk tomorrow
+22/06/2017,23,5,0,Sorry had just got on bus with wife's boss!
+22/06/2017,23,5,0,And now on way to Violet's school evening. 
+22/06/2017,23,5,0,Will describe in more detail later
+22/06/2017,23,26,0,Are you in demo call?
+22/06/2017,23,26,0,:+1:
+22/06/2017,23,26,0,About to start routing
+22/06/2017,23,26,0,How many papers have you read approx?
+22/06/2017,23,26,0,75km?
+22/06/2017,23,26,0,Long one
+22/06/2017,23,50,0,Will it update all stores?
+22/06/2017,23,50,0,"Yes, cheers, just saw that."
+22/06/2017,23,50,0,Do we have any shared file storage with DFS?
+22/06/2017,23,50,0,Slack is *THE WORST* way to store things long term.
+22/06/2017,23,50,0,I don't know...
+22/06/2017,23,50,0,One thing to add to the Delivery backlog is an info management process
+22/06/2017,23,50,0,"Well, I guess that's not Delivery necessarily"
+22/06/2017,23,50,0,What I mean is that we really should have a _good_ semi-standardised model for info xfer with all clients
+22/06/2017,23,50,0,:-1:
+22/06/2017,23,5 26,0,Cheers!
+22/06/2017,23,5 26,0,"BTW, have you both done the security training?"
+22/06/2017,23,5 26,0,"If so, what was your user name?"
+22/06/2017,23,5 26,0,darius.x.aliulis @ something
+22/06/2017,23,5 26,0,or GRXX
+22/06/2017,23,5 26,0,nevermind -- was using `<http://global.tesco.com|global.tesco.com>` rather than `.org`
+22/06/2017,23,5 26,0,"The best way to dispose of an old USB stick is to put it in the bottom of your bag, forget about it, and eventually throw the bag away."
+22/06/2017,23,5 26,0,How can you tell it is issued by Thailand?
+22/06/2017,23,5 26,0,"I actually have six on my list, but am mid-lesson so can't post image"
+22/06/2017,23,5 26,0,Hmm. It's worth asking why this is necessary.
+22/06/2017,23,5 26,0,I'm not doing the TH one
+22/06/2017,23,5 26,0,The Office one took 5 mins
+22/06/2017,23,5 26,0,"<https://satalia.slack.com/archives/G1GLKQRA6/p1498062014772860>
+"
+22/06/2017,23,5 26,0,"Yes, prob should upload repo"
+22/06/2017,23,5 26,0,Cheers!
+22/06/2017,23,5 26,0,:white_check_mark:
+22/06/2017,23,5 26,0,On another topic...
+22/06/2017,23,5 26,0,:disappointed:
+22/06/2017,23,5 26,0,I don't have permission
+22/06/2017,23,5 26,0,Demo is in 20 mins
+22/06/2017,23,5 26,0,Would just be nice to say it is there
+22/06/2017,23,5 26,0,Or was someone going to do more work on it before pushing?
+22/06/2017,23,5 26,0,`poc-routing-ch`
+22/06/2017,23,5 26,0,on Satalia github
+22/06/2017,23,5 26,0,but no Readme or anything...
+22/06/2017,23,5 26,0,hmm
+22/06/2017,23,5 26,0,??
+22/06/2017,23,5 26,0,on Satalia `st-utz`
+22/06/2017,23,5 26,0,what am I trying?
+22/06/2017,23,5 26,0,So log out of current user and log in as my main GitHub?
+22/06/2017,23,5 26,0,Current GXR8 on Hive GitHub
+22/06/2017,23,5 26,0,"On Hive they made me create a new GitHub user, which is pretty useless"
+22/06/2017,23,5 26,0,"only as GXR8, but that does not allow creation of projects"
+22/06/2017,23,5 26,0,sorry GXR8
+22/06/2017,23,5 26,0,So if you can add permissions to that then great
+22/06/2017,23,5 26,0,well then someone who can create repos on T-&amp;-T needs to upload repo
+22/06/2017,23,5 26,0,ok
+22/06/2017,23,5 26,0,sec...
+22/06/2017,23,5 26,0,nm
+22/06/2017,23,5 26,0,Pete says OK to do later in week
+22/06/2017,23,5 26,0,will wait for Darius return
+22/06/2017,23,5 26,0,and maybe create a Readme quick
+22/06/2017,23,5 26,0,&gt; hes not there
+22/06/2017,23,5 26,0,&gt; hes here...
+22/06/2017,23,5 26,0,I am saying that soon we should push <https://github.com/Satalia/poc-routing-ch> to <https://github.dev.global.tesco.org/Transport-and-Tracking>
+22/06/2017,23,5 26,0,yep
+22/06/2017,23,5 26,0,"ok, cheers."
+22/06/2017,23,5 26,0,the only person in my group is Anand. :neutral_face:
+22/06/2017,23,5 26,0,Can't. Walking to Plus for Demo now. 
+22/06/2017,23,5 26,0,Will come back later or tomorrow 
+22/06/2017,23,5 26,5,<@U0LNDAUQ6> Can you push the repo to Hive GitHub?
+22/06/2017,23,5 26,23,<@U04PVV50R> uploaded a file: <https://satalia.slack.com/files/U04PVV50R/F5YJW3A9L/slack_-_satalia.png|Slack_-_Satalia.png>
+22/06/2017,23,5 26,26,Or <@U1G84H2MN> if you are back today.
+22/06/2017,23,5 26,26,<@U1G84H2MN> ?
+22/06/2017,23,5 26,26 5 ,"Well done, <@U1G84H2MN> and <@U0LNDAUQ6>"
 21/06/2017,3,6,0,"Am in London now, just heading back to office from Waterloo"
 21/06/2017,3,6,0,"Love Jai, think he's a perfect fit"
 21/06/2017,3,6,0,ayyy
 21/06/2017,3,10,0,Satalia Head of Security
+21/06/2017,3,81,0,"Hey dude, yep go ahead"
 21/06/2017,4,3,0,That sounds good Rusty
-21/06/2017,4,9,0,Yep!
-21/06/2017,4,16,0,Didn't have this. Do you?
 21/06/2017,4,6,0,"I'll look at this in a bit - i have the student with me who is doing the salary prediction - can you conenct her with someone who cna provide data for her to start playing around with? She will feel a lot safer if she has something, and setup her systems to start parsing it and stuff"
 21/06/2017,4,6,0,can you email it to her?
 21/06/2017,4,6,0,She needs to do Machine Learning - there int enough data in the survey to build models
@@ -27,3 +122,5 @@
 21/06/2017,4,6,0,No - i've got too much to catchup on
 21/06/2017,4,6,0,he's texting me now
 21/06/2017,4,6,0,let's chat
+21/06/2017,4,9,0,Yep!
+21/06/2017,4,16,0,Didn't have this. Do you?
