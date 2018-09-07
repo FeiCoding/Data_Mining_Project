@@ -194,11 +194,10 @@ train, test = form_train_test_data(train_data, label_data)
 # Binary Relevance, Classifier Chain and Label Powerset are used to transform the multi_label problem to a single label problem.
 # 
 # 
-# |                           | Binary Relevance | Classifier Chain | Label Powerset |
-# |---------------------------|----------------- | ---------------- | -------------- |
-# |  Guassian Naive Bayesian  |  0.0319          |      0.0319      |   0.1335       |
-# |  Multiple Neural Network  |  0.253           |       0.255      |   0.1375       |
-# |  Random Forest            |   0.263          |      0.247       |   0.269        |
+# |                           |  Classifier Chain | Label Powerset |
+# |---------------------------|-----------------  | -------------- |
+# |  Guassian Naive Bayesian  |       0.0319      |   0.1335       |
+# |  Multiple Neural Network  |       0.255       |   0.1375       |
 # 
 # 
 
@@ -209,34 +208,6 @@ X_train = train[:,label_data.shape[1]:]
 
 Y_test = test[:, 0:label_data.shape[1]]
 X_test = test[:,label_data.shape[1]:]
-
-
-# ### Gaussian Naive Bayesian classification + Binary Relevance
-
-# In[68]:
-
-classifier = BinaryRelevance(GaussianNB())
-
-classifier.fit(X_train, Y_train)
-
-predictions = classifier.predict(X_test)
-
-accuracy_score(Y_test, predictions)
-
-
-# ### Multiple Neural Network + Binary Relevance
-
-# In[45]:
-
-mlp = MLPClassifier(solver='lbfgs', activation='relu',alpha=1e-4,hidden_layer_sizes=(50,50), random_state=1,max_iter=1000,verbose=10,learning_rate_init=.1)
-
-classifier = BinaryRelevance(mlp)
-
-classifier.fit(X_train, Y_train)
-
-predictions = classifier.predict(X_test)
-
-accuracy_score(Y_test, predictions)
 
 
 # ### Gaussian Naive Bayesian + Classifier Chain
